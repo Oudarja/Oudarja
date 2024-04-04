@@ -1,4 +1,4 @@
-![I am enthusiastic learner and passionate problem solver](https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=)
+![I am enthusiastic learner and passionate problem solver](https://i.pinimg.com/originals/2d/c4/1b/2dc41b36f3c22ebc36842a0046887b78.jpg)
 ### Hi there 👋, I am Oudarja 
 #### I am enthusiastic learner and passionate problem solver
 
