@@ -19,7 +19,7 @@ Skills: C++/Java/Python/Javascript/Algorithm and Data structure/HTML/CSS/Mysql/M
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oudarja)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oudarja)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oudarja)](https://github.com/oudarja/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oudarja&show_icons=true)  
 
