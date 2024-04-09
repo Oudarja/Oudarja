@@ -1,4 +1,4 @@
-![I am enthusiastic learner and passionate problem solver](https://miro.medium.com/v2/resize:fit:1400/1*sV60JhlYL4IdWjcNvKTJRA.png)
+
 ### Hi there 👋, I am Oudarja 
 #### I am enthusiastic learner and passionate problem solver
 
